@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github User App 2</string>
+    <string name="image">Image</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="not_found">Not Found</string>
+</resources>
